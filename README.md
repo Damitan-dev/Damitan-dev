@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Damitan
+
+I'm a Computer Science student focused on backend development, software engineering, and applied AI/ML.
+
+I enjoy building real-world systems, exploring how software works beyond the surface, and turning ideas into functional products.
+
+Currently working with Python and backend technologies while developing projects across AI, machine learning, recommendation systems, and full-stack development.
+
 
 <!--
 **Damitan-dev/Damitan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
